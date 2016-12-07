@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://s-media-cache-ak0.pinimg.com/originals/02/9b/03/029b031501d4f6e1baabaa520a155f86.jpg");
       background-size: cover;
       color: white;
     }
@@ -9,11 +9,12 @@
     }
     h1 {
       font-size: 70px;
+      color: turquoise;
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      border: 7px solid silver;
+      border-radius: 2px;
     }
     ul {
       padding: 10px;
@@ -28,6 +29,14 @@
       padding: 20px;
       margin: 0 auto;
     }
+    
+    
+    
+    
+    
+    
+    
+    
     @media (max-width: 500px) {
       h1 {
         font-size: 36px;
